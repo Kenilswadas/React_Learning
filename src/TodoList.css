@@ -1,0 +1,40 @@
+input{
+    display: flex;
+    align-items: center;
+    display: inline-block;
+    text-align: center;
+    border-radius: 20px;
+}
+input:focus{
+    color: gray;
+}
+
+.main{
+background-color: antiquewhite;
+text-align: center;
+align-items: center;
+}
+.main2{
+/* text-align: center; */
+align-items: center;
+}
+.main button{
+    padding:auto;
+    border-radius: 10px;
+    margin-left: 2%;
+}
+.main2 button{
+    padding:auto;
+    border-radius: 10px;
+    margin-left: 2%;
+}
+
+.List {
+    display: inline-block;
+    float: left;
+    background-color: antiquewhite;
+    text-align: center;
+    margin: 2%;
+    width: 200px;
+    display: inline-block;
+}
